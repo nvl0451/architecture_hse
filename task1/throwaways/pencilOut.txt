@@ -1,0 +1,6 @@
+scanned pencils color red in amount 10
+scanned pencils color blue in amount 29
+scanned pencils color magenta in amount 69
+scanned pencils color yellow in amount 3
+scanned pencils color black in amount 420
+overall pencils in stock - 531

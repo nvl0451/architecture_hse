@@ -1,0 +1,5 @@
+red 10
+blue 29
+magenta 69
+yellow 3
+black 420

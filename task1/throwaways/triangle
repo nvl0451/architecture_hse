@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+struct point {
+	int x, y;
+}
+
+struct triangle {
+	point p1, p2, p3;
+}
+
+int main() {
+	printf("lets roll bitch\n");
+	printf("input a point\n");
+	int a, b;
+	scanf("%d %d", a, b);
+	scanf("%d %d", a, b);
+	return 0;
+}
