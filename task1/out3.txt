@@ -1,2 +1,0 @@
-total data damaged: 0
-total shape vol is 0.000000

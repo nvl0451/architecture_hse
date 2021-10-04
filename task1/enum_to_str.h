@@ -36,3 +36,22 @@ enum shapeType strToShape(char s[]) {
 	}
 	return WRONG;
 }
+
+// variation on shapeToStr for output - with full shape names for user convenience
+char *shapeToStrFull(enum shapeType type) {
+	char *s = NULL;
+	switch (type) {
+		case SPHERE:
+			s = "sphere";
+			break;
+		case PARAL:
+			s = "rectangular parallelepiped";
+			break;
+		case TETRA:
+			s = "regular tetrahedron";
+			break;
+		default:
+			break;
+	}
+	return s;
+}

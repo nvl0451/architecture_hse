@@ -1,0 +1,5 @@
+shapes successfully processed: 3
+shapes damaged: 0
+entry 1: rectangular parallelepiped of density 81.00 and volume of 18360.00 with edge lengths of 12 x 34 x 45
+entry 2: regular tetrahedron of density 12.00 and volume of 7.54 with edge length of 4
+entry 3: sphere of density 45.00 and volume of 523.33 with radius of 5

@@ -1,0 +1,3 @@
+paral 81 12 34 45
+tetra 12 4
+sphere 45 5
