@@ -1,0 +1,3 @@
+C:/architecture/task2/sample files/incl/build/CMakeFiles/task.dir
+C:/architecture/task2/sample files/incl/build/CMakeFiles/edit_cache.dir
+C:/architecture/task2/sample files/incl/build/CMakeFiles/rebuild_cache.dir

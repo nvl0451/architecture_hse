@@ -1,0 +1,5 @@
+Bubble Sorted container:
+Container of 3 elements.
+0: It is Regular Tetrahedron: a = 15. Volume = 397.748, Density = 5
+1: It is Parallelepiped: x = 34, y = 15, z = 32. Volume = 16320, Density = 72.2
+2: It is Sphere: radius = 16. Volume = 17148.6, Density = 16.65

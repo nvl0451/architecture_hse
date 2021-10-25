@@ -1,0 +1,10 @@
+Bubble Sorted container:
+Container of 8 elements.
+0: It is Regular Tetrahedron: a = 2. Volume = 0.942809, Density = 43
+1: It is Regular Tetrahedron: a = 4. Volume = 7.54247, Density = 12
+2: It is Sphere: radius = 2. Volume = 33.4933, Density = 13
+3: It is Sphere: radius = 2. Volume = 33.4933, Density = 3
+4: It is Sphere: radius = 5. Volume = 523.333, Density = 45
+5: It is Parallelepiped: x = 23, y = 12, z = 32. Volume = 8832, Density = 13
+6: It is Parallelepiped: x = 12, y = 34, z = 45. Volume = 18360, Density = 81
+7: It is Regular Tetrahedron: a = 56. Volume = 20696.5, Density = 45

@@ -1,0 +1,13 @@
+Filled container:
+Container of 10 elements.
+0: It is Parallelepiped: x = 12, y = 34, z = 45. Volume = 18360, Density = 81
+1: It is Regular Tetrahedron: a = 4. Volume = 7.54247, Density = 12
+2: It is Sphere: radius = 5. Volume = 523.333, Density = 45
+3: It is Parallelepiped: x = 12, y = 34, z = 45. Volume = 18360, Density = 81
+4: It is Regular Tetrahedron: a = 4. Volume = 7.54247, Density = 12
+5: It is Sphere: radius = 5. Volume = 523.333, Density = 45
+6: It is Parallelepiped: x = 12, y = 34, z = 45. Volume = 18360, Density = 81
+7: It is Regular Tetrahedron: a = 4. Volume = 7.54247, Density = 12
+8: It is Sphere: radius = 5. Volume = 523.333, Density = 45
+9: It is Parallelepiped: x = 12, y = 34, z = 45. Volume = 18360, Density = 81
+Volume sum = 75032.6
