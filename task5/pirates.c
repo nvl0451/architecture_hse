@@ -167,7 +167,7 @@ int main(int argc, char *argv[]) {
 	if (argc == 3) {
 		int iSide = atoi(argv[1]);
 		int pAm = atoi(argv[2]);
-		if (iSide > 0 && pAm > 0) {
+		if (iSide > 0 && iSide <= 100 && pAm > 0 && pAm <= 100) {
 			n = iSide;
 			piratesInit = pAm;
 			printf("John S: Closing in on an island with side of %d with a crew of %d pirates\n",
